@@ -74,7 +74,7 @@ From Matches
 Where round = 'F' and winner_entry = 'Q'
 
 -- List of players who won Olympic Gold Medals between 2015-2024
-Select winner_name as Player, tourney_name as City
+Select *
 From Matches
 Where round = 'F' and tourney_name Like '%Olympics'
 
