@@ -7,7 +7,7 @@ https://github.com/JeffSackmann/tennis_atp
 - Performed T-Tests and ANOVA testing to determine which service statistics correlated most with winning matches
 - Group data by player and surface and analyzed the differences between service statistic rates across different surfaces
 - Loaded data into Tableau to create visualizations
-  - Tableau Public link: https://public.tableau.com/app/profile/julian.bombard/viz/ATPAnalysis/PlayerWinPercentage?publish=yes
+  - Tableau Public link: https://public.tableau.com/app/profile/julian.bombard/viz/ATPAnalysis/Story
 
 File Structure
 - analysis: jupyer notebooks with win correlation analysis and surface analysis
